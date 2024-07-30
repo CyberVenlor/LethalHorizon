@@ -1,6 +1,6 @@
 ﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnnamedProject", "UnnamedProject.csproj", "{42CEA561-A57A-40E6-99A4-DCDAD5123AF8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LethalHorizon", "LethalHorizon.csproj", "{42CEA561-A57A-40E6-99A4-DCDAD5123AF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
